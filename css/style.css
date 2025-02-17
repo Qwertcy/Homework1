@@ -38,6 +38,9 @@ h1 {
 }
 
 #text {
-    font-size: large;
+    font-size: 24px;
     text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
+
